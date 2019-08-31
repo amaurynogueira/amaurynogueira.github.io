@@ -1,4 +1,5 @@
 {
+    
     "icons": [{
       "src": "img/icon.png",
       "sizes": "32x32",
@@ -10,4 +11,5 @@
     }],
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest"
+
 }
